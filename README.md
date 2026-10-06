@@ -1,10 +1,6 @@
 <div align="center">👋 Hey, I'm Muhammed
 
 💻 C# Backend Developer | 🎮 Unity Game Developer | 🚀 Programmer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=C%23+%7C+.NET+Developer;Backend+%26+API+Development;Unity+%7C+Game+Development;SQL+%7C+Entity+Framework+Core;Building+Projects+%26+Learning+Every+Day" /><br/>"Profile Views" (https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
-""GitHub followers" (https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat)" (https://github.com/YOUR_USERNAME)
-
 </div>---
 
 🧑‍💻 About Me
